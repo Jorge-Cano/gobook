@@ -24,8 +24,6 @@ The book currently consists of the following chapters:
 # crud & networking finally...
 
 
-
-
 Each chapter concludes with a number of exercises with answers to help you get some hands-on experience. Currently there are more than 30 exercises.
 
 * See http://www.golang.org for the homepage of Go.
