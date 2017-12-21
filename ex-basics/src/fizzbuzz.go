@@ -1,6 +1,8 @@
 package main
 
 import "fmt"
+// what does fmt standfor * Format?
+
 
 func main() {
 	const (
