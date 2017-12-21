@@ -6,4 +6,7 @@ import "fmt"
 
 func main(){
   fmt.Printf("Hello, Google Language\n")
+
+  func main(){
+    fmt.Printf("Switch Branch\n")
 }
